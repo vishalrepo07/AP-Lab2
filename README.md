@@ -1,2 +1,2 @@
 # AP-Lab2
-This repo contains...
+This repo contains all the lab excercise
